@@ -2,51 +2,27 @@
   "version": 1,
   "announcements": [
     {
-      "id": "notice_trial_pro_beta_2026_08_27",
-      "date": "2026-08-27",
+      "id": "notice_how_to_use_2026_09_12",
+      "date": "2026-09-12",
       "title": {
-        "ko": "7일 체험 후 Pro 안내",
-        "en": "Pro after the 7-day trial",
-        "zh": "7 天试用结束后的 Pro 说明",
-        "ja": "7日間体験後の Pro 案内",
-        "hi": "7 दिन के ट्रायल के बाद Pro",
-        "es": "Pro after the 7-day trial",
-        "pt": "Pro after the 7-day trial",
-        "de": "Pro after the 7-day trial"
+        "ko": "무료와 Pro",
+        "en": "Free and Pro",
+        "zh": "免费版和 Pro",
+        "ja": "無料と Pro",
+        "hi": "मुफ़्त और Pro",
+        "es": "Gratis y Pro",
+        "pt": "Grátis e Pro",
+        "de": "Kostenlos und Pro"
       },
       "body": {
-        "ko": "7일 무료 체험이 끝나면 일부 기능이 제한됩니다. 충전과 블루투스를 함께 쓰는 루틴처럼 조건이 2개 이상인 자동 실행은 Pro에서만 동작합니다. Pro 버전을 결제해 주세요.\n\n현재 베타 테스터로 참여 중인 계정은 Play Console 라이선스 테스터로 등록되어 있으면, 금액이 청구되지 않는 테스트 결제로 Pro를 구매할 수 있습니다.",
-        "en": "When the 7-day free trial ends, some features are limited. Routines with 2 or more conditions (for example charging and Bluetooth together) run automatically only on Pro. Please purchase Pro.\n\nIf your account is in this beta and is added as a Play license tester, you can buy Pro with a test purchase that is not charged.",
-        "zh": "7 天免费试用结束后部分功能会受限。包含 2 个及以上条件的例行（例如充电+蓝牙）仅 Pro 会自动运行。请购买 Pro。\n\n若您的账号正在参与测试，并已登记为 Play 许可测试人员，可通过不会扣款的测试购买开通 Pro。",
-        "ja": "7日間の無料体験が終わると一部機能が制限されます。充電とBluetoothなど条件が2つ以上のルーチンは Pro でのみ自動実行されます。Pro をご購入ください。\n\nこのベータに参加中で、Play のライセンステスターに登録されているアカウントは、課金されないテスト購入で Pro を購入できます。",
-        "hi": "7 दिन के मुफ़्त ट्रायल के बाद कुछ सुविधाएँ सीमित हो जाती हैं। 2 या अधिक शर्तों वाले रूटीन (जैसे चार्जिंग + ब्लूटूथ) केवल Pro पर अपने आप चलते हैं। कृपया Pro खरीदें।\n\nयदि आपका खाता इस बीटा में है और Play लाइसेंस टेस्टर है, तो बिना शुल्क के टेस्ट खरीदारी से Pro ले सकते हैं।",
-        "es": "When the 7-day free trial ends, some features are limited. Routines with 2 or more conditions (for example charging and Bluetooth together) run automatically only on Pro. Please purchase Pro.\n\nIf your account is in this beta and is added as a Play license tester, you can buy Pro with a test purchase that is not charged.",
-        "pt": "When the 7-day free trial ends, some features are limited. Routines with 2 or more conditions (for example charging and Bluetooth together) run automatically only on Pro. Please purchase Pro.\n\nIf your account is in this beta and is added as a Play license tester, you can buy Pro with a test purchase that is not charged.",
-        "de": "When the 7-day free trial ends, some features are limited. Routines with 2 or more conditions (for example charging and Bluetooth together) run automatically only on Pro. Please purchase Pro.\n\nIf your account is in this beta and is added as a Play license tester, you can buy Pro with a test purchase that is not charged."
-      }
-    },
-    {
-      "id": "notice_free_pro_plan_2026_v1",
-      "date": "2026-08-12",
-      "title": {
-        "ko": "무료·Pro 버전 이용 안내",
-        "en": "Free vs Pro plans",
-        "zh": "免费版与 Pro 版说明",
-        "ja": "無料版・Pro版のご案内",
-        "hi": "मुफ़्त बनाम Pro योजना",
-        "es": "Free vs Pro plans",
-        "pt": "Free vs Pro plans",
-        "de": "Free vs Pro plans"
-      },
-      "body": {
-        "ko": "무료 버전\n· 루틴 2개까지\n· 루틴당 조건 1개까지\n\nPro 버전\n· 루틴 무제한\n· 조건 무제한",
-        "en": "Free\n· Up to 2 routines\n· Up to 1 condition per routine\n\nPro\n· Unlimited routines\n· Unlimited conditions",
-        "zh": "免费版\n· 最多 2 个常规\n· 每个常规最多 1 个条件\n\nPro 版\n· 常规数量不限\n· 条件数量不限",
-        "ja": "無料版\n· ルーチン2件まで\n· ルーチンあたり条件1件まで\n\nPro版\n· ルーチン無制限\n· 条件無制限",
-        "hi": "मुफ़्त\n· 2 रूटीन तक\n· प्रति रूटीन 1 शर्त\n\nPro\n· असीमित रूटीन\n· असीमित शर्तें",
-        "es": "Free\n· Up to 2 routines\n· Up to 1 condition per routine\n\nPro\n· Unlimited routines\n· Unlimited conditions",
-        "pt": "Free\n· Up to 2 routines\n· Up to 1 condition per routine\n\nPro\n· Unlimited routines\n· Unlimited conditions",
-        "de": "Free\n· Up to 2 routines\n· Up to 1 condition per routine\n\nPro\n· Unlimited routines\n· Unlimited conditions"
+        "ko": "처음 2주 동안은 모든 기능을 쓸 수 있습니다.\n\n2주가 지나면 무료로 쓸 수 있는 범위는 아래와 같습니다.\n· 루틴 2개\n· 루틴마다 조건 1개\n\n더 많이 쓰려면 Pro를 한 번 구매하면 됩니다.",
+        "en": "All features are free for the first 2 weeks.\n\nAfter that, the free version includes:\n· 2 routines\n· 1 condition per routine\n\nBuy Pro once if you need more.",
+        "zh": "最初两周可使用全部功能。\n\n两周后免费版范围如下：\n· 最多 2 个常规\n· 每个常规 1 个条件\n\n需要更多时购买一次 Pro 即可。",
+        "ja": "最初の2週間はすべての機能を使えます。\n\n2週間後の無料で使える範囲は次のとおりです。\n· ルーチン2件\n· ルーチンごとに条件1件\n\nもっと使う場合は Pro を一度購入してください。",
+        "hi": "पहले 2 हफ्ते सभी सुविधाएँ मुफ़्त हैं।\n\nउसके बाद मुफ़्त में यह मिलता है:\n· 2 रूटीन\n· प्रत्येक रूटीन में 1 शर्त\n\nऔर चाहिए तो Pro एक बार खरीदें।",
+        "es": "Todas las funciones son gratis las 2 primeras semanas.\n\nDespués, la versión gratis incluye:\n· 2 rutinas\n· 1 condición por rutina\n\nCompra Pro una vez si necesitas más.",
+        "pt": "Todos os recursos são grátis nas 2 primeiras semanas.\n\nDepois, a versão grátis inclui:\n· 2 rotinas\n· 1 condição por rotina\n\nCompre o Pro uma vez se precisar de mais.",
+        "de": "Alle Funktionen sind die ersten 2 Wochen kostenlos.\n\nDanach gilt in der kostenlosen Version:\n· 2 Routinen\n· 1 Bedingung pro Routine\n\nPro einmal kaufen, wenn Sie mehr brauchen."
       }
     }
   ]
