@@ -1,5 +1,16 @@
 {
   "version": 1,
+  "latestAppVersion": "1.9.61",
+  "latestAppSummary": {
+    "ko": "국내 Waze 주소 검색을 카카오로 변경",
+    "en": "Waze in Korea now uses Kakao address search",
+    "zh": "韩国 Waze 地址搜索改为 Kakao",
+    "ja": "韓国内のWaze住所検索をKakaoに変更",
+    "hi": "कोरिया में Waze अब Kakao पता खोज उपयोग करता है",
+    "es": "Waze en Corea usa búsqueda de direcciones Kakao",
+    "pt": "Waze na Coreia usa busca de endereço Kakao",
+    "de": "Waze in Korea nutzt jetzt Kakao-Adresssuche"
+  },
   "announcements": [
     {
       "id": "notice_how_to_use_2026_09_12",
