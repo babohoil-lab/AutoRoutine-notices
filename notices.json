@@ -1,15 +1,15 @@
 {
   "version": 1,
-  "latestAppVersion": "1.9.61",
+  "latestAppVersion": "1.9.62",
   "latestAppSummary": {
-    "ko": "국내 Waze 주소 검색을 카카오로 변경",
-    "en": "Waze in Korea now uses Kakao address search",
-    "zh": "韩国 Waze 地址搜索改为 Kakao",
-    "ja": "韓国内のWaze住所検索をKakaoに変更",
-    "hi": "कोरिया में Waze अब Kakao पता खोज उपयोग करता है",
-    "es": "Waze en Corea usa búsqueda de direcciones Kakao",
-    "pt": "Waze na Coreia usa busca de endereço Kakao",
-    "de": "Waze in Korea nutzt jetzt Kakao-Adresssuche"
+    "ko": "공휴일 제외·주소록 섹션별 추가",
+    "en": "Exclude holidays; add addresses per address-book section",
+    "zh": "排除公共假日；地址簿各分类单独添加",
+    "ja": "祝日除外・住所録セクション別追加",
+    "hi": "छुट्टियाँ छोड़ें; पता बुक सेक्शन में जोड़ें",
+    "es": "Excluir festivos; añadir dirección por sección",
+    "pt": "Excluir feriados; adicionar endereço por seção",
+    "de": "Feiertage ausnehmen; Adresse pro Abschnitt hinzufügen"
   },
   "announcements": [
     {
