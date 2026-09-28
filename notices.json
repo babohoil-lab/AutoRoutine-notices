@@ -1,15 +1,15 @@
 {
   "version": 1,
-  "latestAppVersion": "1.9.64",
+  "latestAppVersion": "1.9.65",
   "latestAppSummary": {
-    "ko": "공지 무료·Pro 문구·박스 높이 맞춤",
-    "en": "Update Free/Pro notice copy; match card heights",
-    "zh": "调整免费与 Pro 公告文案与卡片高度",
-    "ja": "無料・Proお知らせ文言とカード高さ調整",
-    "hi": "मुफ़्त/Pro नोटिस टेक्स्ट और कार्ड ऊँचाई",
-    "es": "Texto Gratis/Pro y altura de tarjetas",
-    "pt": "Texto Grátis/Pro e altura dos cartões",
-    "de": "Free/Pro-Hinweistext und Kartenhöhe"
+    "ko": "시간,요일 세팅 → 공휴일 제외 기능 추가",
+    "en": "Time/day settings: exclude public holidays",
+    "zh": "时间与星期设置：新增排除公共假日",
+    "ja": "時間・曜日設定に祝日除外を追加",
+    "hi": "समय/दिन सेटिंग: छुट्टियाँ छोड़ें",
+    "es": "Hora/días: excluir festivos",
+    "pt": "Hora/dias: excluir feriados",
+    "de": "Zeit/Tage: Feiertage ausnehmen"
   },
   "announcements": [
     {
