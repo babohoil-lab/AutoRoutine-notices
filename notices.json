@@ -1,15 +1,15 @@
 {
   "version": 1,
-  "latestAppVersion": "1.9.63",
+  "latestAppVersion": "1.9.64",
   "latestAppSummary": {
-    "ko": "공지 무료·Pro 비교 박스",
-    "en": "Free vs Pro notice comparison cards",
-    "zh": "公告免费与 Pro 对比卡片",
-    "ja": "お知らせの無料・Pro比較カード",
-    "hi": "मुफ़्त बनाम Pro नोटिस कार्ड",
-    "es": "Tarjetas de comparación Gratis y Pro",
-    "pt": "Cartões de comparação Grátis e Pro",
-    "de": "Free- und Pro-Vergleichskarten in Hinweisen"
+    "ko": "공지 무료·Pro 문구·박스 높이 맞춤",
+    "en": "Update Free/Pro notice copy; match card heights",
+    "zh": "调整免费与 Pro 公告文案与卡片高度",
+    "ja": "無料・Proお知らせ文言とカード高さ調整",
+    "hi": "मुफ़्त/Pro नोटिस टेक्स्ट और कार्ड ऊँचाई",
+    "es": "Texto Gratis/Pro y altura de tarjetas",
+    "pt": "Texto Grátis/Pro e altura dos cartões",
+    "de": "Free/Pro-Hinweistext und Kartenhöhe"
   },
   "announcements": [
     {
