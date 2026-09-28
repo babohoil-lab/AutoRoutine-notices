@@ -1,20 +1,20 @@
 {
   "version": 1,
-  "latestAppVersion": "1.9.62",
+  "latestAppVersion": "1.9.63",
   "latestAppSummary": {
-    "ko": "공휴일 제외·주소록 섹션별 추가",
-    "en": "Exclude holidays; add addresses per address-book section",
-    "zh": "排除公共假日；地址簿各分类单独添加",
-    "ja": "祝日除外・住所録セクション別追加",
-    "hi": "छुट्टियाँ छोड़ें; पता बुक सेक्शन में जोड़ें",
-    "es": "Excluir festivos; añadir dirección por sección",
-    "pt": "Excluir feriados; adicionar endereço por seção",
-    "de": "Feiertage ausnehmen; Adresse pro Abschnitt hinzufügen"
+    "ko": "공지 무료·Pro 비교 박스",
+    "en": "Free vs Pro notice comparison cards",
+    "zh": "公告免费与 Pro 对比卡片",
+    "ja": "お知らせの無料・Pro比較カード",
+    "hi": "मुफ़्त बनाम Pro नोटिस कार्ड",
+    "es": "Tarjetas de comparación Gratis y Pro",
+    "pt": "Cartões de comparação Grátis e Pro",
+    "de": "Free- und Pro-Vergleichskarten in Hinweisen"
   },
   "announcements": [
     {
-      "id": "notice_how_to_use_2026_09_12",
-      "date": "2026-09-12",
+      "id": "notice_free_pro_2026_09_28",
+      "date": "2026-09-28",
       "title": {
         "ko": "무료와 Pro",
         "en": "Free and Pro",
@@ -26,14 +26,14 @@
         "de": "Kostenlos und Pro"
       },
       "body": {
-        "ko": "처음 2주 동안은 모든 기능을 쓸 수 있습니다.\n\n2주가 지나면 무료로 쓸 수 있는 범위는 아래와 같습니다.\n· 루틴 2개\n· 루틴마다 조건 1개\n\n더 많이 쓰려면 Pro를 한 번 구매하면 됩니다.",
-        "en": "All features are free for the first 2 weeks.\n\nAfter that, the free version includes:\n· 2 routines\n· 1 condition per routine\n\nBuy Pro once if you need more.",
-        "zh": "最初两周可使用全部功能。\n\n两周后免费版范围如下：\n· 最多 2 个常规\n· 每个常规 1 个条件\n\n需要更多时购买一次 Pro 即可。",
-        "ja": "最初の2週間はすべての機能を使えます。\n\n2週間後の無料で使える範囲は次のとおりです。\n· ルーチン2件\n· ルーチンごとに条件1件\n\nもっと使う場合は Pro を一度購入してください。",
-        "hi": "पहले 2 हफ्ते सभी सुविधाएँ मुफ़्त हैं।\n\nउसके बाद मुफ़्त में यह मिलता है:\n· 2 रूटीन\n· प्रत्येक रूटीन में 1 शर्त\n\nऔर चाहिए तो Pro एक बार खरीदें।",
-        "es": "Todas las funciones son gratis las 2 primeras semanas.\n\nDespués, la versión gratis incluye:\n· 2 rutinas\n· 1 condición por rutina\n\nCompra Pro una vez si necesitas más.",
-        "pt": "Todos os recursos são grátis nas 2 primeiras semanas.\n\nDepois, a versão grátis inclui:\n· 2 rotinas\n· 1 condição por rotina\n\nCompre o Pro uma vez se precisar de mais.",
-        "de": "Alle Funktionen sind die ersten 2 Wochen kostenlos.\n\nDanach gilt in der kostenlosen Version:\n· 2 Routinen\n· 1 Bedingung pro Routine\n\nPro einmal kaufen, wenn Sie mehr brauchen."
+        "ko": "",
+        "en": "",
+        "zh": "",
+        "ja": "",
+        "hi": "",
+        "es": "",
+        "pt": "",
+        "de": ""
       }
     }
   ]
