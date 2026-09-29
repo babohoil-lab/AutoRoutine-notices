@@ -1,15 +1,15 @@
 {
   "version": 1,
-  "latestAppVersion": "1.9.69",
+  "latestAppVersion": "1.9.73",
   "latestAppSummary": {
-    "ko": "특정 장소 두 줄 표시·반경을 검색창에",
-    "en": "Two-line place condition UI; radius in search screen",
-    "zh": "特定场所两行显示·半径在搜索页",
-    "ja": "特定場所を２行表示・半径を検索画面に",
-    "hi": "स्थान शर्त दो पंक्तियों में; त्रिज्या खोज स्क्रीन पर",
-    "es": "Condicion de lugar en dos lineas; radio en busqueda",
-    "pt": "Condicao de local em duas linhas; raio na busca",
-    "de": "Ort-Bedingung zweizeilig; Radius in der Suche"
+    "ko": "특정 위치 실행 조건 추가",
+    "en": "Added specific-location run condition",
+    "zh": "新增特定位置执行条件",
+    "ja": "特定の場所での実行条件を追加",
+    "hi": "विशिष्ट स्थान निष्पादन शर्त जोड़ी गई",
+    "es": "Condición de ejecución por ubicación específica",
+    "pt": "Condição de execução por local específico",
+    "de": "Ausführungsbedingung für bestimmten Ort hinzugefügt"
   },
 
 "announcements": [
