@@ -1,15 +1,15 @@
 {
   "version": 1,
-  "latestAppVersion": "1.9.66",
+  "latestAppVersion": "1.9.65",
   "latestAppSummary": {
-    "ko": "핸드폰 UI를 S26 기준 폭으로 맞춤",
-    "en": "Normalize phone UI to Galaxy S26 width",
-    "zh": "手机界面按 S26 宽度对齐",
-    "ja": "スマホUIをS26基準幅に合わせる",
-    "hi": "फ़ोन UI को S26 चौड़ाई पर मिलाएँ",
-    "es": "UI del teléfono alineada al ancho S26",
-    "pt": "UI do telemóvel alinhada à largura S26",
-    "de": "Handy-UI an S26-Breite angeglichen"
+    "ko": "시간,요일 세팅 → 공휴일 제외 기능 추가",
+    "en": "Time/day settings: exclude public holidays",
+    "zh": "时间与星期设置：新增排除公共假日",
+    "ja": "時間・曜日設定に祝日除外を追加",
+    "hi": "समय/दिन सेटिंग: छुट्टियाँ छोड़ें",
+    "es": "Hora/días: excluir festivos",
+    "pt": "Hora/dias: excluir feriados",
+    "de": "Zeit/Tage: Feiertage ausnehmen"
   },
   "announcements": [
     {
