@@ -1,15 +1,15 @@
 {
   "version": 1,
-  "latestAppVersion": "1.9.65",
+  "latestAppVersion": "1.9.67",
   "latestAppSummary": {
-    "ko": "시간,요일 세팅 → 공휴일 제외 기능 추가",
-    "en": "Time/day settings: exclude public holidays",
-    "zh": "时间与星期设置：新增排除公共假日",
-    "ja": "時間・曜日設定に祝日除外を追加",
-    "hi": "समय/दिन सेटिंग: छुट्टियाँ छोड़ें",
-    "es": "Hora/días: excluir festivos",
-    "pt": "Hora/dias: excluir feriados",
-    "de": "Zeit/Tage: Feiertage ausnehmen"
+    "ko": "장소 도착·이탈 조건(지오펜스)",
+    "en": "Place arrive/leave conditions (geofence)",
+    "zh": "地点到达/离开条件（地理围栏）",
+    "ja": "場所到着・離脱条件（ジオフェンス）",
+    "hi": "स्थान आगमन/प्रस्थान शर्त (जियोफेंस)",
+    "es": "Condiciones de llegada/salida de lugar (geocerca)",
+    "pt": "Condições de chegada/saída de local (geofence)",
+    "de": "Ort Ankunft/Verlassen (Geofence)"
   },
   "announcements": [
     {
