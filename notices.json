@@ -1,15 +1,15 @@
 {
   "version": 1,
-  "latestAppVersion": "1.9.67",
+  "latestAppVersion": "1.9.68",
   "latestAppSummary": {
-    "ko": "장소 도착·이탈 조건(지오펜스)",
-    "en": "Place arrive/leave conditions (geofence)",
-    "zh": "地点到达/离开条件（地理围栏）",
-    "ja": "場所到着・離脱条件（ジオフェンス）",
-    "hi": "स्थान आगमन/प्रस्थान शर्त (जियोफेंस)",
-    "es": "Condiciones de llegada/salida de lugar (geocerca)",
-    "pt": "Condições de chegada/saída de local (geofence)",
-    "de": "Ort Ankunft/Verlassen (Geofence)"
+    "ko": "특정 장소 조건 UI·주소 검색 수정",
+    "en": "Place-condition UI and address-search fixes",
+    "zh": "特定地点条件UI与地址搜索修正",
+    "ja": "特定場所条件UI・住所検索の修正",
+    "hi": "विशिष्ट स्थान शर्त UI और पता खोज सुधार",
+    "es": "Correcciones de UI de lugar y busqueda de direccion",
+    "pt": "Correcoes de UI de local e busca de endereco",
+    "de": "Ort-Bedingung UI und Adresssuche korrigiert"
   },
   "announcements": [
     {
