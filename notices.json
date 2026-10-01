@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "latestAppVersion": "1.9.73",
+  "latestAppVersion": "1.9.74",
   "latestAppSummary": {
     "ko": "특정 위치 실행 조건 추가",
     "en": "Added specific-location run condition",
